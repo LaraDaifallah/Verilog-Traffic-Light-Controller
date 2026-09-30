@@ -42,9 +42,9 @@ The existing testbench covers reset, minimum main-green time, exact side-green t
 
 ## Project documents
 
-- [Project report](docs/project-report.pdf): specification, state encoding, timing, and simulation screenshots.
-- [State diagram](docs/state-diagram.pdf): supplied FSM diagram.
-- `simulation/finalWave.asdb`: original simulator waveform database; open it with a compatible Aldec simulator. GitHub does not preview this binary format, and it is not needed to compile the source.
+- [Project report](AvancedProj.pdf): specification, state encoding, timing, and simulation screenshots.
+- [State diagram](state.pdf): supplied FSM diagram.
+- `finalWave.asdb`: original simulator waveform database; open it with a compatible Aldec simulator. GitHub does not preview this binary format, and it is not needed to compile the source.
 
 ## Author
 
