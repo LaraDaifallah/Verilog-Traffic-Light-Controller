@@ -1,0 +1,9 @@
+build/
+*.vvp
+*.vcd
+*.fst
+work/
+transcript
+.vscode/
+.DS_Store
+Thumbs.db
